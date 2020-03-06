@@ -4,11 +4,11 @@
   "description": "LitElement Beers - A LitElement tutorial",
   "main": "index.js",
   "scripts" : {
-    "start" : "node ./step-07/index.html"
+    "start" : "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Noloz/lit-element-beers2.git"
+    "url": "git+https://github.com/lostinbrittany/lit-element-beers.git"
   },
   "keywords": [
     "lit-element",
